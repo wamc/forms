@@ -1,3 +1,4 @@
 # forms
 This repository will be used for Inservice Registrations forms.
-A backup of old forms will be kept in a directory called oldforms.
+Forms were created with Libre Office and saved as PDF files.
+Use the PDF files when registering.
